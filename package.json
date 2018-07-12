@@ -1,0 +1,24 @@
+{
+  "name": "css-standar",
+  "version": "1.0.0",
+  "description": "css standar",
+  "author": "Ocean",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ocean000/vue2-libs.git"
+  },
+  "scripts": {
+  },
+  "main": "",
+  "files": [
+  ],
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "engines": {
+    "node": ">= 4.0.0",
+    "npm": ">= 3.0.0"
+  }
+}
